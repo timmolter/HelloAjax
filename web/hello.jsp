@@ -10,10 +10,10 @@
     <body>
         
         <input type="button" onclick="jsajax()" value="Javascript Ajax!" />
-        <div id="jscallbackmessage"></div>
+        <div id="jscallbackmessage">&nbsp;</div>
         
         <input type="button" onclick="jqueryajax()" value="JQuery Ajax!" />
-        <div id="jquerycallbackmessage"></div>
+        <div id="jquerycallbackmessage">&nbsp;</div>
                 
     </body>
 </html>
