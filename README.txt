@@ -9,7 +9,7 @@ Features
 -----
 
 * AJAX using pure Javascript
-* AJAX using JQuery, a fast and concise JavaScript Library 
+* AJAX using JQuery, a popular JavaScript Library 
 
 Installation
 ------------
